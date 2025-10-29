@@ -11,9 +11,9 @@
 ## 🛠️ My Technical Toolbox
 
 ### **Core Development & Data**
-* **Programming:** 🐍 Python  <p align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXYxMmFtOGJ0d2ZhaGZwNXV5dTgyZDUweHdxNmdyMGc1Y2N6b3plZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="20" alt="Working/Coding GIF">
+* **Programming:** 🐍 Python <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXYxMmFtOGJ0d2ZhaGZwNXV5dTgyZDUweHdxNmdyMGc1Y2N6b3plZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="20" alt="Working/Coding GIF">
 </p>
+
 * **Database:** 🐘 SQL  
 * **Web Frameworks:** ⚡ FastAPI  
 * **App Development:** 📱 Flutter  
