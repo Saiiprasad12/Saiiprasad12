@@ -80,8 +80,7 @@ An **end-to-end AI/ML project** for a banking client, demonstrating how to use L
 
 ## 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-prasad-2056aa182/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+
 
 ---  
 
