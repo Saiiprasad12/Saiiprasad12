@@ -1,16 +1,97 @@
-## Hi there 👋
+# Hi there! 👋 I'm **Sai Prasad**
 
-<!--
-**Saiiprasad12/Saiiprasad12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ A **Full-Stack AI Engineer** passionate about building **Scalable Solutions** and **Intelligent Applications**.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/qgM1oJ7jU31Nl1Jq/giphy.gif" width="300" alt="Working/Coding GIF">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Technical Toolbox
+
+### **Core Development & Data**
+* **Programming:** 🐍 Python  
+* **Database:** 🐘 SQL  
+* **Web Frameworks:** ⚡ FastAPI  
+* **App Development:** 📱 Flutter  
+
+### **AI / LLM Stack**
+* **LLMs:** 🤖 Large Language Models (LLMs)  
+* **Frameworks:** 🔗 LangChain  
+* **Architecture:** 📚 RAG (Retrieval Augmented Generation)  
+
+### **DevOps & Cloud**
+* **Containerization:** 🐳 Docker  
+* **Orchestration:** ⚙️ Kubernetes  
+* **Cloud Platform:** ☁️ AWS (Amazon Web Services)  
+* **Automation:** 🌐 n8n (Workflow Automation)  
+
+### **Data & Visualisation**
+* **Analytics:** 📊 Tableau  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [Local PDF RAG Agent Using Ollama + LangChain](https://github.com/Saiiprasad12/Local-PDF-RAG-Agent)
+**Technologies:** Python, LangChain, Ollama, Mistral, Nomic Embeddings, PyPDFLoader, DocArray  
+
+- Developed an intelligent **PDF Question-Answering System** using Retrieval-Augmented Generation (RAG).  
+- Integrated local LLM (Mistral) and embeddings (nomic-embed-text) with LangChain for **context-aware Q&A**.  
+- Implemented PDF parsing, semantic search, and **real-time response streaming** in the console.  
+- Designed modular architecture with **custom prompt templates** and robust error handling.  
+- Achieved a fully **offline AI workflow** using Ollama, eliminating cloud dependencies.  
+
+---
+
+### 🏦 [Banking AI Agent with RAG & LangChain](https://github.com/Saiiprasad12/Banking-AI-Agent)
+An **end-to-end AI/ML project** for a banking client, demonstrating how to use LangChain agents, RAG pipelines, and FastAPI for document-based automation.  
+
+- Enabled **intelligent querying** over policy documents and **workflow automation** using containerized microservices.  
+- Built with FastAPI, LangChain, Docker, and integrated document loaders for flexible scaling.  
+
+---
+
+## 🧠 Currently Exploring
+- Fine-tuning open-source LLMs on domain-specific datasets  
+- Building scalable LangChain pipelines with FastAPI  
+- Deploying microservices on AWS ECS  
+
+---
+
+## 🏆 Skill Badges
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,vscode,git,github,docker,kubernetes,aws,flutter,tableau,mysql" />
+</p>
+<br/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saiiprasad12&show_icons=true&theme=vue&hide=prs&border_radius=10" alt="Sai's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saiiprasad12&theme=vue&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiiprasad12&layout=compact&theme=vue" alt="Top Languages"/>
+</p>
+
+---
+
+## 🌎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-prasad-2056aa182/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+
+---
+
+## ☕ Fun Facts
+- 🎧 Coding music: Lo-fi & synthwave  
+- ♟️ Favorite game: Chess  
+- 🧩 Weekend habit: Solving logic puzzles  
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saiiprasad12&theme=vue)
+
+---
+
+<p align="center">Made with ❤️ by <b>Sai Prasad</b> — passionate about AI, automation, and creative coding ✨</p>
