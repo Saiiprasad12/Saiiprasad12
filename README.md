@@ -83,12 +83,7 @@ An **end-to-end AI/ML project** for a banking client, demonstrating how to use L
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 
----
-
-## ☕ Fun Facts
-- 🎧 Coding music: Lo-fi & synthwave  
-- ♟️ Favorite game: Chess  
-- 🧩 Weekend habit: Solving logic puzzles  
+---  
 
 ---
 
