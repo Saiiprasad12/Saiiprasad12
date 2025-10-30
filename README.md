@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Sai Prasad**
 
-✨ A **Full-Stack AI Engineer** passionate about building **Scalable Solutions** and **Intelligent Applications**.
+✨ A **AI Engineer** passionate about building **Scalable Solutions** and **Intelligent Applications**.
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkwNWxxb2w5ZDFpbnRmYm81YnBvOWZxcGV0cTV6djQ5NDNiNDN6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="300" alt="Working/Coding GIF">
