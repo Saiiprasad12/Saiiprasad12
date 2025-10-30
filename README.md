@@ -56,9 +56,8 @@ An **end-to-end AI/ML project** for a banking client, demonstrating how to use L
 ---
 
 ## 🧠 Currently Exploring
-- Fine-tuning open-source LLMs on domain-specific datasets  
-- Building scalable LangChain pipelines with FastAPI  
-- Deploying microservices on AWS ECS  
+- Building scalable LangChain AI agents.  
+- Working on n8n
 
 ---
 
